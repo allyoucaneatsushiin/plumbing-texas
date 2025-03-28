@@ -216,11 +216,11 @@ def post_comment_to_site(website, comment, author, email):
 
     try:
         response = requests.post(
-            website["url"], headers=headers, data=payload, proxies=proxy, timeout=10
+            website["url"], headers=headers, data=payload, timeout=10
         )
-        return website["name"], website["url"], response.status_code == 200
+        return website["name"], website["url"], response.status_code == 200, response.status_code
     except:
-        return website["name"], website["url"], False
+        return website["name"], website["url"], False, 0
 
 
 # Main function
@@ -250,13 +250,13 @@ def main():
                 }
                 results = []
                 for future in as_completed(futures):
-                    site_name, site_url, success = future.result()
-                    results.append((site_name, site_url, success))
+                    site_name, site_url, success, code = future.result()
+                    results.append((site_name, site_url, success,code))
                     success_count += 1 if success else 0
                     fail_count += 0 if success else 1
 
                     status_text = "\n".join(
-                        [f"{'✅' if s else '❌'} {n} ({u})" for n, u, s in results]
+                        [f"{'✅' if s else '❌'} {n} ({u}) ({c})" for n, u, s,c in results]
                     )
                     status_placeholder.markdown(f"### Posting Status:\n{status_text}")
 
