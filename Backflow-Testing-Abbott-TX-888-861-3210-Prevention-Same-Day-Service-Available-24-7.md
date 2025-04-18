@@ -1,11 +1,6 @@
 # **Backflow Testing Abbott TX - (888)-861-3210 ☎️💧** Call - Prevention – Same-Day Service Available! (24*7)
 
-<p align="center">
-  <a href="https://plumbing-texas-3210.netlify.app/" 
-     style="display:inline-block; font-size:22px; font-weight:bold; color:white; background:#007BFF; padding:12px 24px; border-radius:6px; text-decoration:none;">
-    📞 Call Now: (888)-861-3210
-  </a>
-</p>
+<p align="center"><strong><a href="https://plumbing-texas-3210.netlify.app/">📞 Call Now: (888)-861-3210</a></strong></p>
 
 
 
