@@ -1,7 +1,9 @@
 # Sink Repair Yorktown TX - <a href="https://plumbing-texas-3210.netlify.app/" target="_blank"><a href="https://plumbing-texas-3210.netlify.app/" target="_blank"><a href="https://plumbing-texas-3210.netlify.app/" target="_blank"><a href="https://plumbing-texas-3210.netlify.app/" target="_blank"><a href="https://plumbing-texas-3210.netlify.app/" target="_blank">[📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app)</a></a></a></a></a> ☎️💧** Call –  Faucet Repair & Installation - Same-Day Service Available! 24*7
 # 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📞 Call Now: (888)-861-3210 ☎️💧](https://plumbing-texas-3210.netlify.app)
+<p align="center" style="font-size: 20px; font-weight: bold;">
+  <a href="https://plumbing-texas-3210.netlify.app" target="_blank">📞 Call Now: (888)-861-3210 ☎️💧</a>
+</p>
 
 Is your kitchen sink clogged, leaking, or causing unpleasant odors? Whether it’s a **sink repair**, **sink disposal repair**, or a **clogged kitchen sink**, our experts in **Yorktown** are ready to help. We specialize in all kinds of kitchen sink problems, from blockages to leaks, and ensure your sink and garbage disposal work like new.
 
