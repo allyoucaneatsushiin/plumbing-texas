@@ -92,8 +92,23 @@ When it comes to **shower repair**, **shower plumbing**, and **shower maintenanc
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for all your **shower repair** needs in Balch Springs — Your perfect shower is just a call away!**
 
 
+
 ## Internal Links
-- [Shower-Backing-Up-Service-Hockley-TX-888-861-3210-Same-Day-Drain-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Backing-Up-Service-Hockley-TX-888-861-3210-Same-Day-Drain-Fixes-24-7.md)
-- [Shower-Fix-Fluvanna-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Fix-Fluvanna-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md)
-- [Shower-Fix-Harker-Heights-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Fix-Harker-Heights-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md)
-- [Shower-Backing-Up-Service-Hillsboro-TX-888-861-3210-Same-Day-Drain-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Backing-Up-Service-Hillsboro-TX-888-861-3210-Same-Day-Drain-Fixes-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Apple Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Apple-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Balch Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Balch-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Carrizo Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Carrizo-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Dripping Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Dripping-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

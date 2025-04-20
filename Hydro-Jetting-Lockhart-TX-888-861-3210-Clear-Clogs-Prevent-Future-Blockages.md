@@ -90,8 +90,23 @@ If you’re tired of dealing with clogs, slow drains, or foul odors, **hydrojett
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule hydrojetting in Lockhart — Get your plumbing back to normal with our professional services!**
 
 
+
 ## Internal Links
-- [Hydro-Jetting-Jermyn-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Jermyn-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
-- [Hydro-Jetting-Arlington-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Arlington-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
-- [Hydro-Jetting-Rio-Frio-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Rio-Frio-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
-- [Hydro-Jetting-Newton-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Newton-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Lockhart TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Lockhart-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Lockhart TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Lockhart-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Bathroom Leakage Repair Lockhart TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Lockhart-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathtub Repair Lockhart TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Lockhart-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)

@@ -92,8 +92,23 @@ Don’t let a broken **electric furnace** leave you in the cold. Whether you nee
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for **electric furnace repair** in Sweet Home — We’ll restore your home’s comfort in no time!**
 
 
+
+- [Propane-Furnace-Repair-Sweet-Home-TX-888-861-3210-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Propane-Furnace-Repair-Sweet-Home-TX-888-861-3210-Emergency-Repairs-Available-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
 ## Internal Links
-- [Electric-Furnace-Repair-Prosper-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Prosper-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
-- [Electric-Furnace-Repair-Sundown-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Sundown-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
-- [Electric-Furnace-Repair-Perryton-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Perryton-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
-- [Electric-Furnace-Repair-Poth-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Poth-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Mountain Home TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Mountain-Home-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Sweet Home TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Sweet-Home-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Mountain Home TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Mountain-Home-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Basement Ejector Pump Repair Sweet Home TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Sweet-Home-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)

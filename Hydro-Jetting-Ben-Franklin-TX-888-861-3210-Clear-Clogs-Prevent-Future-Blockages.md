@@ -90,8 +90,23 @@ If you’re tired of dealing with clogs, slow drains, or foul odors, **hydrojett
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule hydrojetting in Ben Franklin — Get your plumbing back to normal with our professional services!**
 
 
+
 ## Internal Links
-- [Hydro-Jetting-Buffalo-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Buffalo-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
-- [Hydro-Jetting-Falfurrias-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Falfurrias-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
-- [Hydro-Jetting-Lumberton-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Lumberton-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
-- [Hydro-Jetting-Goldsmith-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Goldsmith-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Ben Franklin TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Ben-Franklin-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Franklin TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Franklin-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Ben Franklin TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Ben-Franklin-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Basement Ejector Pump Repair Franklin TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Franklin-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)

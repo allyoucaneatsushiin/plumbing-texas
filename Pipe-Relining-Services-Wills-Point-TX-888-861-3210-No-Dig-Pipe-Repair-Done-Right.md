@@ -88,8 +88,23 @@ If you're experiencing issues with your pipes, consider **pipe relining** as a c
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your pipe relining service in Wills Point — We’re ready to restore your pipes and save you money!**
 
 
+
 ## Internal Links
-- [Pipe-Relining-Services-Bullard-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pipe-Relining-Services-Bullard-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md)
-- [Pipe-Relining-Services-Comanche-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pipe-Relining-Services-Comanche-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md)
-- [Pipe-Relining-Services-Saragosa-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pipe-Relining-Services-Saragosa-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md)
-- [Pipe-Relining-Services-Afton-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pipe-Relining-Services-Afton-TX-888-861-3210-No-Dig-Pipe-Repair-Done-Right.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Center Point TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Center-Point-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Pilot Point TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Pilot-Point-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Point TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Point-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing West Point TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-West-Point-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

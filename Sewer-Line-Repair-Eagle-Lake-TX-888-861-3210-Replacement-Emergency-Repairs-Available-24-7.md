@@ -94,8 +94,20 @@ If you’re experiencing issues with your sewer line, don’t wait for the probl
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule sewer line repair and replacement in Eagle Lake — We’ll restore your sewer system quickly and efficiently!**
 
 
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
 ## Internal Links
-- [Sewer-Cleaning-New-Waverly-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Cleaning-New-Waverly-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md)
-- [Sewer-Cleaning-Athens-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Cleaning-Athens-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md)
-- [Sewer-Line-Repair-Rowena-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Line-Repair-Rowena-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md)
-- [Sewer-Line-Repair-Pattison-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Line-Repair-Pattison-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md)
+- [Backflow Testing Big Lake TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Big-Lake-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Canyon Lake TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Canyon-Lake-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Eagle Lake TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Eagle-Lake-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Lelia Lake TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Lelia-Lake-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

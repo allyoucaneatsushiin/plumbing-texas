@@ -92,8 +92,23 @@ Don’t let a broken **electric furnace** leave you in the cold. Whether you nee
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for **electric furnace repair** in Spring — We’ll restore your home’s comfort in no time!**
 
 
+
+- [Gas-Furnace-Repair-Spring-TX-888-861-3210-Same-Day-Service-to-Restore-Your-Heat-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Gas-Furnace-Repair-Spring-TX-888-861-3210-Same-Day-Service-to-Restore-Your-Heat-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
 ## Internal Links
-- [Electric-Furnace-Repair-May-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-May-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
-- [Electric-Furnace-Repair-Trinity-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Trinity-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
-- [Electric-Furnace-Repair-Meyersville-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Meyersville-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
-- [Electric-Furnace-Repair-North-Zulch-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-North-Zulch-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Big Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Big-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Cat Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Cat-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing China Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-China-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

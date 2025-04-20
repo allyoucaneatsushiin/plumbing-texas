@@ -87,9 +87,20 @@ Whether you need to fix a **clogged bathroom sink**, repair a **bathroom leak th
 
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for expert bathroom leakage repair and waterproofing in Sheppard Afb — We’ll take care of the leaks so you don’t have to!**
 
+---
+
+- [Bathroom-Leakage-Repair-Abernathy-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Abernathy-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathroom-Leakage-Repair-Abilene-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Abilene-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathroom-Leakage-Repair-Ace-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Ace-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
 
 ## Internal Links
-- [Bathroom-Leakage-Repair-Rockdale-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Rockdale-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
-- [Bathroom-Leakage-Repair-Venus-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Venus-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
-- [Bathroom-Leakage-Repair-Atascosa-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Atascosa-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
-- [Bathroom-Leakage-Repair-Friona-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Friona-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Backflow Testing Dyess Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Dyess-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Goodfellow Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Goodfellow-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Laughlin Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Laughlin-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Sheppard Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Sheppard-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

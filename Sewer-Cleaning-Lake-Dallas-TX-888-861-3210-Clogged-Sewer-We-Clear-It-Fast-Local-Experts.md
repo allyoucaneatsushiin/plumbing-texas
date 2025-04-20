@@ -92,8 +92,23 @@ Whether you need **sewer backup cleaning services**, **drain and sewer cleaning*
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule sewer cleaning services in Lake Dallas — Let us ensure your sewer system works perfectly!**
 
 
+
 ## Internal Links
-- [Sewer-Cleaning-Bullard-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Cleaning-Bullard-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md)
-- [Sewer-Line-Repair-Colorado-City-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Line-Repair-Colorado-City-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md)
-- [Sewer-Line-Repair-San-Angelo-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Line-Repair-San-Angelo-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md)
-- [Sewer-Cleaning-Silsbee-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Cleaning-Silsbee-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Dallas TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Dallas-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Lake Dallas TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Lake-Dallas-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Dallas TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Dallas-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Basement Ejector Pump Repair Lake Dallas TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Lake-Dallas-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)

@@ -88,8 +88,24 @@ Whether you need **irrigation repairs**, **sprinkler installation**, or routine 
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for reliable **irrigation plumber** services in Alba — Let us handle your irrigation needs with expert care!**
 
 
-## Internal Links
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+- [Refrigerator-Repair-Alba-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Refrigerator-Repair-Alba-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md)
 - [Sink-Repair-Alba-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sink-Repair-Alba-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md)
-- [Bathtub-Repair-Alba-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Alba-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)
-- [Pump-Repair-Alba-TX-888-861-3210-Clogged-Pipe-Repair-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pump-Repair-Alba-TX-888-861-3210-Clogged-Pipe-Repair-Same-Day-Service-Available-24-7.md)
-- [Leak-Repair-Alba-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Alba-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
+- [Faucet-Repair-Alba-TX-888-861-3210-Replacement-Emergency-Service-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Faucet-Repair-Alba-TX-888-861-3210-Replacement-Emergency-Service-24-7.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Alba TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Alba-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Alba TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Alba-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Bathroom Leakage Repair Alba TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Alba-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathtub Repair Alba TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Alba-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)

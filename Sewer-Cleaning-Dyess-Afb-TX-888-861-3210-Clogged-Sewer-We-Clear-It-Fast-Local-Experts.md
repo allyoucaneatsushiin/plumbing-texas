@@ -92,8 +92,23 @@ Whether you need **sewer backup cleaning services**, **drain and sewer cleaning*
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule sewer cleaning services in Dyess Afb — Let us ensure your sewer system works perfectly!**
 
 
+
 ## Internal Links
-- [Sewer-Line-Repair-Rotan-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Line-Repair-Rotan-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md)
-- [Sewer-Cleaning-Megargel-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Cleaning-Megargel-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md)
-- [Sewer-Line-Repair-Maxwell-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Line-Repair-Maxwell-TX-888-861-3210-Replacement-Emergency-Repairs-Available-24-7.md)
-- [Sewer-Cleaning-Carmine-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sewer-Cleaning-Carmine-TX-888-861-3210-Clogged-Sewer-We-Clear-It-Fast-Local-Experts.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Dyess Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Dyess-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Goodfellow Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Goodfellow-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Laughlin Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Laughlin-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Sheppard Afb TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Sheppard-Afb-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

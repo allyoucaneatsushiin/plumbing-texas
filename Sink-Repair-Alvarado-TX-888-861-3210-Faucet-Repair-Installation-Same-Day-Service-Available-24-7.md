@@ -104,8 +104,24 @@ Don’t let a clogged sink or malfunctioning disposal ruin your day. Our **Alvar
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for fast **sink disposal repair** and **kitchen sink repair** in Alvarado — Get your kitchen plumbing working perfectly today!**
 
 
-## Internal Links
-- [Leak-Repair-Alvarado-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Alvarado-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
-- [Irrigation-Repair-Alvarado-TX-888-861-3210-Sprinkler-Service-Local-Same-Day-Service.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Irrigation-Repair-Alvarado-TX-888-861-3210-Sprinkler-Service-Local-Same-Day-Service.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
 - [Pump-Repair-Alvarado-TX-888-861-3210-Clogged-Pipe-Repair-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pump-Repair-Alvarado-TX-888-861-3210-Clogged-Pipe-Repair-Same-Day-Service-Available-24-7.md)
-- [Bathtub-Repair-Alvarado-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Alvarado-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)
+- [Leak-Repair-Alvarado-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Alvarado-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
+- [Faucet-Repair-Alvarado-TX-888-861-3210-Replacement-Emergency-Service-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Faucet-Repair-Alvarado-TX-888-861-3210-Replacement-Emergency-Service-24-7.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Alvarado TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Alvarado-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Alvarado TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Alvarado-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Bathroom Leakage Repair Alvarado TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Alvarado-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathtub Repair Alvarado TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Alvarado-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)

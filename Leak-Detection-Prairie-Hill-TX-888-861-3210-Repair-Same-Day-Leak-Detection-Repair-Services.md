@@ -96,8 +96,23 @@ Leak detection is a critical service to maintain the integrity of your home and 
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your leak detection services in Prairie Hill — We’re ready to protect your property from water damage!**
 
 
+
 ## Internal Links
-- [Leak-Detection-Rosston-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Detection-Rosston-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md)
-- [Leak-Repair-Enloe-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Enloe-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
-- [Leak-Detection-Weir-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Detection-Weir-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md)
-- [Leak-Repair-Grandview-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Grandview-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Cedar Hill TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Cedar-Hill-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Chappell Hill TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Chappell-Hill-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Liberty Hill TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Liberty-Hill-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Prairie Hill TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Prairie-Hill-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

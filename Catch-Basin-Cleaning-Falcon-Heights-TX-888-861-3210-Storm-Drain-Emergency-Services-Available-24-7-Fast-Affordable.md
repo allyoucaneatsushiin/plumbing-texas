@@ -82,8 +82,26 @@ Don’t let a clogged catch basin cause water damage to your home or landscaping
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your catch basin cleaning service in Falcon Heights — We’re ready to assist you!**
 
 
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+---
+
+- [Catch-Basin-Cleaning-Abernathy-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Cleaning-Abernathy-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
+- [Catch-Basin-Cleaning-Abilene-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Cleaning-Abilene-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
+- [Catch-Basin-Cleaning-Ace-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Cleaning-Ace-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
 ## Internal Links
-- [Catch-Basin-Repair-Bastrop-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Repair-Bastrop-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
-- [Catch-Basin-Cleaning-Leesburg-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Cleaning-Leesburg-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
-- [Catch-Basin-Repair-New-Boston-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Repair-New-Boston-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
-- [Catch-Basin-Cleaning-La-Feria-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Cleaning-La-Feria-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)
+- [Backflow Testing Falcon Heights TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Falcon-Heights-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Harker Heights TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Harker-Heights-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Falcon Heights TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Falcon-Heights-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Basement Ejector Pump Repair Harker Heights TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Harker-Heights-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)

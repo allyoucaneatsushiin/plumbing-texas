@@ -92,8 +92,23 @@ Don’t let a malfunctioning **gas furnace** leave you in the cold. Whether you 
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for **gas furnace repair** in Alice — We’ll get your furnace back to full functionality, fast!**
 
 
+
+- [Electric-Furnace-Repair-Alice-TX-888-861-3210-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Electric-Furnace-Repair-Alice-TX-888-861-3210-Same-Day-Service-Available-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
 ## Internal Links
-- [Gas-Line-Repair-Cumby-TX-888-861-3210-Replacement-Emergency-24-7-Gas-Leak-Service-Plumbers.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Gas-Line-Repair-Cumby-TX-888-861-3210-Replacement-Emergency-24-7-Gas-Leak-Service-Plumbers.md)
-- [Gas-Line-Repair-Stafford-TX-888-861-3210-Replacement-Emergency-24-7-Gas-Leak-Service-Plumbers.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Gas-Line-Repair-Stafford-TX-888-861-3210-Replacement-Emergency-24-7-Gas-Leak-Service-Plumbers.md)
-- [Gas-Appliance-Repair-League-City-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Gas-Appliance-Repair-League-City-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md)
-- [Gas-Line-Repair-Granbury-TX-888-861-3210-Replacement-Emergency-24-7-Gas-Leak-Service-Plumbers.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Gas-Line-Repair-Granbury-TX-888-861-3210-Replacement-Emergency-24-7-Gas-Leak-Service-Plumbers.md)
+- [Backflow Testing Alice TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Alice-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Alice TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Alice-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Bathroom Leakage Repair Alice TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Alice-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathtub Repair Alice TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Alice-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)

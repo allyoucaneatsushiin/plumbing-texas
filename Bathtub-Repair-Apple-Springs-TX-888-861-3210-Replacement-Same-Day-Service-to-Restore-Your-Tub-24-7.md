@@ -82,8 +82,26 @@ From fixing **jet tub issues** to handling **overflow leaks**, our **bathtub rep
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your bathtub repair in Apple Springs — We’re ready to help you with all your bathtub needs!**
 
 
-## Internal Links
-- [Leak-Repair-Apple-Springs-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Apple-Springs-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
-- [Refrigerator-Repair-Apple-Springs-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Refrigerator-Repair-Apple-Springs-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+---
+
+- [Emergency-Plumbing-Apple-Springs-TX-888-861-3210-24-7-Plumbing-Services-for-Urgent-Repairs-Same-Day.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Emergency-Plumbing-Apple-Springs-TX-888-861-3210-24-7-Plumbing-Services-for-Urgent-Repairs-Same-Day.md)
 - [Faucet-Repair-Apple-Springs-TX-888-861-3210-Replacement-Emergency-Service-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Faucet-Repair-Apple-Springs-TX-888-861-3210-Replacement-Emergency-Service-24-7.md)
-- [Sink-Repair-Apple-Springs-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sink-Repair-Apple-Springs-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md)
+- [Hydro-Jetting-Apple-Springs-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Apple-Springs-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Apple Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Apple-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Balch Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Balch-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Carrizo Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Carrizo-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Dripping Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Dripping-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

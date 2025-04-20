@@ -82,8 +82,26 @@ From fixing **jet tub issues** to handling **overflow leaks**, our **bathtub rep
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your bathtub repair in Marble Falls — We’re ready to help you with all your bathtub needs!**
 
 
-## Internal Links
-- [Refrigerator-Repair-Marble-Falls-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Refrigerator-Repair-Marble-Falls-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+---
+
+- [Emergency-Plumbing-Marble-Falls-TX-888-861-3210-24-7-Plumbing-Services-for-Urgent-Repairs-Same-Day.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Emergency-Plumbing-Marble-Falls-TX-888-861-3210-24-7-Plumbing-Services-for-Urgent-Repairs-Same-Day.md)
 - [Faucet-Repair-Marble-Falls-TX-888-861-3210-Replacement-Emergency-Service-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Faucet-Repair-Marble-Falls-TX-888-861-3210-Replacement-Emergency-Service-24-7.md)
-- [Leak-Repair-Marble-Falls-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Marble-Falls-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
-- [Sink-Repair-Marble-Falls-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sink-Repair-Marble-Falls-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md)
+- [Hydro-Jetting-Marble-Falls-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Marble-Falls-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Marble Falls TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Marble-Falls-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Wichita Falls TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Wichita-Falls-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Marble Falls TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Marble-Falls-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Basement Ejector Pump Repair Wichita Falls TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Wichita-Falls-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)

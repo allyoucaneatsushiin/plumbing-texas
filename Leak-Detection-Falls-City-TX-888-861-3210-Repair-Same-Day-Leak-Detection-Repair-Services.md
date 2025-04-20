@@ -96,8 +96,23 @@ Leak detection is a critical service to maintain the integrity of your home and 
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your leak detection services in Falls City — We’re ready to protect your property from water damage!**
 
 
+
 ## Internal Links
-- [Leak-Detection-Summerfield-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Detection-Summerfield-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md)
-- [Leak-Detection-Carrollton-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Detection-Carrollton-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md)
-- [Leak-Detection-South-Bend-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Detection-South-Bend-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md)
-- [Leak-Detection-Nolan-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Detection-Nolan-TX-888-861-3210-Repair-Same-Day-Leak-Detection-Repair-Services.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Archer City TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Archer-City-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Arthur City TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Arthur-City-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Bay City TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Bay-City-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Colorado City TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Colorado-City-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

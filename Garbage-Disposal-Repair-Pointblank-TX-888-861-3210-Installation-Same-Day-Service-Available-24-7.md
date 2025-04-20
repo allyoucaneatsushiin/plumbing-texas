@@ -88,8 +88,23 @@ Whether you need **garbage disposal repairs**, routine maintenance, or a complet
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for **garbage disposal repair** services in Pointblank — We’ll restore your system to optimal performance!**
 
 
+
 ## Internal Links
-- [Garbage-Disposal-Cleaning-Premont-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Cleaning-Premont-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md)
-- [Garbage-Disposal-Repair-Concepcion-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Concepcion-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Repair-Poolville-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Poolville-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Cleaning-Naval-Air-Station-Jrb-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Cleaning-Naval-Air-Station-Jrb-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Pointblank TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Pointblank-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Pointblank TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Pointblank-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Bathroom Leakage Repair Pointblank TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Pointblank-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Bathtub Repair Pointblank TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathtub-Repair-Pointblank-TX-888-861-3210-Replacement-Same-Day-Service-to-Restore-Your-Tub-24-7.md)

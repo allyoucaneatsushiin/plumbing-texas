@@ -2,67 +2,68 @@ import os
 import re
 import random
 
-# Define the directory containing the .md files (current directory where the script is run)
-directory = os.getcwd()  # This gets the current working directory
+# New standard disclaimer (only once per file)
+DISCLAIMER = """\n\n---\n\n*IMPORTANT **Disclaimer:**\n\nThis site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].\n\n"""
 
-# Function to extract city and service from the filename
-def extract_city_and_service(filename):
-    match = re.match(r"^(.*?)-(.*?)-TX-\d{3}-\d{3}-\d{4}-.*?\.md$", filename)
-    if match:
-        service = match.group(1).replace("-", " ").strip()
-        city = match.group(2).replace("-", " ").strip()
-        return service, city
-    return None, None
+# Use current directory instead of fixed folder
+FOLDER_PATH = os.getcwd()
 
-# Scan the directory for all .md files
-file_list = [f for f in os.listdir(directory) if f.endswith('.md')]
+# Read all Markdown files in the folder
+md_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith(".md")]
 
-# Group files by city and service
-city_groups = {}
-service_groups = {}
+# Parse metadata from filenames
+file_data = []
+for filename in md_files:
+    parts = filename.replace(".md", "").split("-")
+    if len(parts) < 3:
+        continue
+    service = parts[0]
+    city = parts[2]
+    file_data.append({
+        "filename": filename,
+        "service": service,
+        "city": city,
+        "path": os.path.join(FOLDER_PATH, filename)
+    })
 
-for file in file_list:
-    service, city = extract_city_and_service(file)
-    if service and city:
-        if city not in city_groups:
-            city_groups[city] = []
-        if service not in service_groups:
-            service_groups[service] = []
-        city_groups[city].append(file)
-        service_groups[service].append(file)
+# Internal linking logic
+for file in file_data:
+    same_city_links = [
+        f for f in file_data
+        if f["city"].lower() == file["city"].lower() and f["filename"] != file["filename"]
+    ]
 
-# Function to generate the URL for each file
-def generate_url(file_name):
-    return f"https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/{file_name}"
+    remaining_needed = 4 - len(same_city_links)
 
-# Function to add internal links to a file
-def add_internal_links(file_name, links):
-    file_path = os.path.join(directory, file_name)
-    with open(file_path, 'a') as file:
-        file.write("\n\n## Internal Links\n")
-        for link in links:
-            file.write(f"- [{link}]({generate_url(link)})\n")
+    if remaining_needed > 0:
+        same_service_links = [
+            f for f in file_data
+            if f["service"].lower() == file["service"].lower()
+            and f not in same_city_links
+            and f["filename"] != file["filename"]
+        ]
+        random.shuffle(same_service_links)
+        same_city_links += same_service_links[:remaining_needed]
 
-# Process each file to add internal links
-for file in file_list:
-    service, city = extract_city_and_service(file)
-    if service and city:
-        # Gather related files from the same city or service
-        related_files = []
+    selected_links = same_city_links[:4]
 
-        # First, try to get files from the same city
-        same_city_files = [f for f in city_groups[city] if f != file]
-        related_files.extend(same_city_files)
+    internal_links_text = "\n\n## Internal Links\n"
+    for link in selected_links:
+        internal_links_text += f"- [{link['filename']}](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/{link['filename']})\n"
 
-        # If less than 3 links, add files from the same service
-        if len(related_files) < 3:
-            same_service_files = [f for f in service_groups[service] if f != file]
-            related_files.extend(same_service_files)
+    with open(file["path"], "r", encoding="utf-8") as f:
+        content = f.read()
 
-        # Ensure there are 3-4 internal links
-        selected_links = random.sample(related_files, min(4, len(related_files)))
-        
-        # Add the internal links to the file
-        add_internal_links(file, selected_links)
+    # Remove all previous disclaimers
+    content = re.sub(r"\*{1,2}Disclaimer:.*?\*\*[\s\S]*?(?=\n##|\Z)", "", content, flags=re.IGNORECASE)
 
-print("Internal linking completed for all files in the folder.")
+    # Remove old Internal Links sections
+    content = re.sub(r"## Internal Links[\s\S]*", "", content, flags=re.IGNORECASE)
+
+    # Append updated disclaimer and internal links
+    content = content.strip() + DISCLAIMER + internal_links_text
+
+    with open(file["path"], "w", encoding="utf-8") as f:
+        f.write(content)
+
+print("✅ All files updated with clean disclaimers and internal links.")

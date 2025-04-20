@@ -82,8 +82,26 @@ From fixing **jet tub issues** to handling **overflow leaks**, our **bathtub rep
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now to schedule your bathtub repair in Eola — We’re ready to help you with all your bathtub needs!**
 
 
-## Internal Links
-- [Pump-Repair-Eola-TX-888-861-3210-Clogged-Pipe-Repair-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Pump-Repair-Eola-TX-888-861-3210-Clogged-Pipe-Repair-Same-Day-Service-Available-24-7.md)
-- [Leak-Repair-Eola-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Eola-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
-- [Sink-Repair-Eola-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Sink-Repair-Eola-TX-888-861-3210-Faucet-Repair-Installation-Same-Day-Service-Available-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+---
+
+- [Emergency-Plumbing-Eola-TX-888-861-3210-24-7-Plumbing-Services-for-Urgent-Repairs-Same-Day.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Emergency-Plumbing-Eola-TX-888-861-3210-24-7-Plumbing-Services-for-Urgent-Repairs-Same-Day.md)
 - [Faucet-Repair-Eola-TX-888-861-3210-Replacement-Emergency-Service-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Faucet-Repair-Eola-TX-888-861-3210-Replacement-Emergency-Service-24-7.md)
+- [Hydro-Jetting-Eola-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Hydro-Jetting-Eola-TX-888-861-3210-Clear-Clogs-Prevent-Future-Blockages.md)
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Eola TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Eola-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Eola TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Eola-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)
+- [Bathroom Leakage Repair Eola TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Bathroom-Leakage-Repair-Eola-TX-888-861-3210-Fix-Leaks-Fast-Avoid-Damage-24-7.md)
+- [Catch Basin Cleaning Eola TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Catch-Basin-Cleaning-Eola-TX-888-861-3210-Storm-Drain-Emergency-Services-Available-24-7-Fast-Affordable.md)

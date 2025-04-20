@@ -88,8 +88,23 @@ Whether you need **garbage disposal repairs**, routine maintenance, or a complet
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for **garbage disposal repair** services in Spring — We’ll restore your system to optimal performance!**
 
 
+
 ## Internal Links
-- [Garbage-Disposal-Repair-Lampasas-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Lampasas-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Cleaning-Chester-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Cleaning-Chester-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md)
-- [Garbage-Disposal-Repair-Rosanky-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Rosanky-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Cleaning-Farmersville-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Cleaning-Farmersville-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Big Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Big-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Cat Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Cat-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing China Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-China-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Spring TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Spring-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

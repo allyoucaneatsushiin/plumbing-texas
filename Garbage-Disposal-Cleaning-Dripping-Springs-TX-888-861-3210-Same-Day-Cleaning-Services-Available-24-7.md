@@ -100,8 +100,23 @@ For a cleaner, more efficient garbage disposal, trust our expert team in **Dripp
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for **garbage disposal cleaning** in Dripping Springs — We’ll restore your system to top condition today!**
 
 
+
 ## Internal Links
-- [Garbage-Disposal-Repair-Decatur-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Decatur-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Repair-Afton-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Afton-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Repair-Minden-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Repair-Minden-TX-888-861-3210-Installation-Same-Day-Service-Available-24-7.md)
-- [Garbage-Disposal-Cleaning-Redwater-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Garbage-Disposal-Cleaning-Redwater-TX-888-861-3210-Same-Day-Cleaning-Services-Available-24-7.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Apple Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Apple-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Balch Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Balch-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Carrizo Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Carrizo-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Dripping Springs TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Dripping-Springs-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)

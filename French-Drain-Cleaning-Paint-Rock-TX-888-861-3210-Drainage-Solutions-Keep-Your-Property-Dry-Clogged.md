@@ -76,8 +76,23 @@ If you want to prevent water damage and ensure that your French drain is working
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ today to schedule your French drain cleaning — We’re ready to help you protect your property!**
 
 
+
+- [Gutter-Drain-Cleaning-Paint-Rock-TX-888-861-3210-24-7-Service-for-Clogs-Repairs-Maintenance.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Gutter-Drain-Cleaning-Paint-Rock-TX-888-861-3210-24-7-Service-for-Clogs-Repairs-Maintenance.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
 ## Internal Links
-- [French-Drain-Cleaning-Cameron-TX-888-861-3210-Drainage-Solutions-Keep-Your-Property-Dry-Clogged.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/French-Drain-Cleaning-Cameron-TX-888-861-3210-Drainage-Solutions-Keep-Your-Property-Dry-Clogged.md)
-- [French-Drain-Cleaning-Whitesboro-TX-888-861-3210-Drainage-Solutions-Keep-Your-Property-Dry-Clogged.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/French-Drain-Cleaning-Whitesboro-TX-888-861-3210-Drainage-Solutions-Keep-Your-Property-Dry-Clogged.md)
-- [French-Drain-Repair-Itasca-TX-888-861-3210-Drainage-Solutions-Fast-Affordable-Clogged.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/French-Drain-Repair-Itasca-TX-888-861-3210-Drainage-Solutions-Fast-Affordable-Clogged.md)
-- [French-Drain-Cleaning-Campbell-TX-888-861-3210-Drainage-Solutions-Keep-Your-Property-Dry-Clogged.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/French-Drain-Cleaning-Campbell-TX-888-861-3210-Drainage-Solutions-Keep-Your-Property-Dry-Clogged.md)
+- [Backflow Testing Paint Rock TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Paint-Rock-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Red Rock TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Red-Rock-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Round Rock TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Round-Rock-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Basement Ejector Pump Repair Paint Rock TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Basement-Ejector-Pump-Repair-Paint-Rock-TX-888-861-3210-Same-Day-Service-for-Urgent-Repairs-24-7.md)

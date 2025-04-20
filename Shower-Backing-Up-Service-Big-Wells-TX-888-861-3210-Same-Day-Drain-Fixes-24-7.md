@@ -70,8 +70,23 @@ Don’t let a **backed-up shower** ruin your day. Our team provides **affordable
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for reliable shower backup repair in Big Wells — We’re ready to clear the clog and restore your peace of mind!**
 
 
+
 ## Internal Links
-- [Shower-Fix-Pampa-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Fix-Pampa-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md)
-- [Shower-Fix-Denver-City-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Fix-Denver-City-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md)
-- [Shower-Backing-Up-Service-Blue-Ridge-TX-888-861-3210-Same-Day-Drain-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Backing-Up-Service-Blue-Ridge-TX-888-861-3210-Same-Day-Drain-Fixes-24-7.md)
-- [Shower-Fix-Emory-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Shower-Fix-Emory-TX-888-861-3210-leak-repair-Shower-Backing-Up-into-Bathtub-Get-Professional-Repairs-Now.md)
+
+
+---
+
+*IMPORTANT: Must add the following disclaimer at the bottom of your site*
+
+
+
+*IMPORTANT **Disclaimer:**
+
+This site [Github.com] is a free service to assist homeowners in connecting with local service providers. All contractors/providers are independent and [Github.com] does not warrant or guarantee any work performed. It is the responsibility of the homeowner to verify that the hired contractor furnishes the necessary license and insurance required for the work being performed. All persons depicted in a photo or video are actors or models and not contractors listed on this site [Github.com].
+
+
+## Internal Links
+- [Backflow Testing Artesia Wells TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Artesia-Wells-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Big Wells TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Big-Wells-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Mineral Wells TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Mineral-Wells-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
+- [Backflow Testing Wells TX](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Backflow-Testing-Wells-TX-888-861-3210-Prevention-Same-Day-Service-Available-24-7.md)
