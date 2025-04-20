@@ -102,3 +102,10 @@ Here are a few tips to help prevent future **kitchen sink blockages** and **sink
 Don’t let a clogged sink or malfunctioning disposal ruin your day. Our **Tye** plumbing team is ready to handle any **sink repair**, **sink disposal repair**, or **kitchen sink blockage** problem quickly and effectively. From leaks to odors, we have the solutions you need.
 
 **📞 Call [📞 (888)-861-3210](https://plumbing-texas-3210.netlify.app) ☎️ now for fast **sink disposal repair** and **kitchen sink repair** in Tye — Get your kitchen plumbing working perfectly today!**
+
+
+## Internal Links
+- [Refrigerator-Repair-Tye-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Refrigerator-Repair-Tye-TX-888-861-3210-Same-Day-Service-for-Quick-Fixes-24-7.md)
+- [Faucet-Repair-Tye-TX-888-861-3210-Replacement-Emergency-Service-24-7.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Faucet-Repair-Tye-TX-888-861-3210-Replacement-Emergency-Service-24-7.md)
+- [Irrigation-Repair-Tye-TX-888-861-3210-Sprinkler-Service-Local-Same-Day-Service.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Irrigation-Repair-Tye-TX-888-861-3210-Sprinkler-Service-Local-Same-Day-Service.md)
+- [Leak-Repair-Tye-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md](https://github.com/allyoucaneatsushiin/plumbing-texas/blob/main/Leak-Repair-Tye-TX-888-861-3210-Stop-Leaks-Before-They-Cause-Major-Damage.md)
